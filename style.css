@@ -4,8 +4,9 @@ body {
 }
 
 .devName h1 {
+	display: flex;
+	justify-content: center;
 	color: #45526c;
-	padding-left: 625px;
 }
 
 .profileimg {
@@ -17,7 +18,7 @@ body {
 }
 
 .projects {
-	color: #f8a488;
+	color: #45526c;
 	padding-top: 50px;
 }
 .projectimgs {

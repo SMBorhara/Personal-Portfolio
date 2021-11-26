@@ -1,0 +1,19 @@
+body {
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	background-color: #f8f5f1;
+}
+
+.heading h1 {
+	display: flex;
+	justify-content: center;
+	color: #45526c;
+}
+
+.descrip {
+	font-size: 20px;
+	color: #27685a;
+	font-weight: bold;
+	padding-top: 30px;
+	padding-left: 300px;
+    padding-right: 300px;
+}

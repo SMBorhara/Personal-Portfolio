@@ -1,0 +1,24 @@
+body {
+	background-color: #f8f5f1;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.head h1 {
+	display: flex;
+	justify-content: center;
+	color: #45526c;
+}
+
+.linkedin,
+.email,
+.github {
+	text-align: center;
+	font-size: 40px;
+	padding-top: 50px;
+}
+
+.home {
+	font-size: 20px;
+	padding-top: 25px;
+	padding-left: 20px;
+}
